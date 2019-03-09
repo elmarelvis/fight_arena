@@ -12,10 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="859f7ab8-7a5a-4f4f-a1a0-f666ebe441cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/welcome.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/welcome.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/welcome.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/welcome.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/fight_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/fight_log.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/welcome" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/welcome" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +52,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
-                <caret line="4" column="576" selection-start-line="4" selection-start-column="576" selection-end-line="4" selection-end-column="576" />
+                <caret line="4" column="537" selection-start-line="4" selection-start-column="537" selection-end-line="4" selection-end-column="537" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -132,28 +135,29 @@
       <updated>1552138171684</updated>
       <workItem from="1552138178049" duration="124000" />
       <workItem from="1552157193309" duration="1929000" />
-      <workItem from="1552160054723" duration="598000" />
+      <workItem from="1552160054723" duration="1345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2651000" />
+    <option name="totallyTimeSpent" value="3398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="55" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24519941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32912844" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3283582" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -186,7 +190,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="576" selection-start-line="4" selection-start-column="576" selection-end-line="4" selection-end-column="576" />
+            <caret line="4" column="537" selection-start-line="4" selection-start-column="537" selection-end-line="4" selection-end-column="537" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

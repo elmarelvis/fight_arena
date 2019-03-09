@@ -9,4 +9,8 @@
 /root/CLionProjects/welcome/main.cpp
 iostream
 -
+fstream
+-
+cstdio
+-
 
